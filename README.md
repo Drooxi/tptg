@@ -1,4 +1,3 @@
-# tptg
-Test de la lib js Phaser
+# Test de la lib js Phaser
 
-Tuto numero 1
+Tuto "making your first game" + modif pour test
